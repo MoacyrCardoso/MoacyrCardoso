@@ -28,7 +28,7 @@
  
 </div>
  
-   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MoacyrCardoso&repo=MoacyrCardoso&theme=react)](https://github.com/MoacyrCardoso/MoacyrCardoso)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=MoacyrCardoso&repo=MoacyrCardoso&theme=react)](https://github.com/MoacyrCardoso/MoacyrCardoso)
 
-   [![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
+   
 
