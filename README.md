@@ -28,4 +28,4 @@
  
 </div>
  
-   ![readme](https://github-readme-stats.vercel.app/api/pin/?username=MoacyrCardoso&repo=MoacyrCardoso&theme=react)](https://github.com/MoacyrCardoso/MoacyrCardoso)
+   (![readme](https://github-readme-stats.vercel.app/api/pin/?username=MoacyrCardoso&repo=MoacyrCardoso&theme=react)](https://github.com/MoacyrCardoso/MoacyrCardoso)
