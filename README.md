@@ -24,7 +24,8 @@
   <a href="https://www.instagram.com/moacyr.cardoso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/moacir-cardoso-43b400b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/MoacyrCardoso/MoacyrCardoso/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MoacyrCardoso/MoacyrCardoso/blob/output/bution-grid-snake-dark.svg")
+
  
 </div>
  
